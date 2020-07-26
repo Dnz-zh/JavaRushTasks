@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1210">
+<h3>Три метода возвращают максимальное из двух переданных в него чисел</h3>
+<p>Написать <mark>public static</mark> методы: <mark>int max(<strong>int</strong>, <strong>int</strong>)</mark>, <mark>long max(<strong>long</strong>, <strong>long</strong>)</mark>, <mark>double max(<strong>double</strong>, <strong>double</strong>)</mark>.<br />
+Каждый метод должен возвращать <strong>максимальное</strong> из двух переданных в него чисел.</p>
+
+</div>

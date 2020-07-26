@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1304">
+<h3>Selectable и Updatable</h3>
+<p>Создай класс <span class="text-corporate"><strong>Screen</strong></span> и реализуй в нем интерфейсы <mark class="red">Selectable</mark> и <mark class="red">Updatable</mark>.<br />
+Не забудь реализовать методы!</p>
+
+</div>

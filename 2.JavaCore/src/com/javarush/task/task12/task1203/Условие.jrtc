@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1203">
+<h3>Кот от кота, а собака от собаки</h3>
+<p>Переопределить метод <mark>getChild</mark> в классах <span class="text-corporate"><strong>Cat</strong></span>(<strong>кот</strong>) и <span class="text-corporate"><strong>Dog</strong></span>(<strong>собака</strong>), чтобы <strong>кот</strong> порождал <strong>кота</strong>, а <strong>собака</strong> – <strong>собаку</strong>.</p>
+
+</div>

@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1325">
+<h3>Компиляция программы</h3>
+<p>1. Исправь классы <mark class="red">Fox</mark> и <mark class="red">BigFox</mark> так, чтобы программа компилировалась.<br />
+Задача не предполагает создания экземпляров базового класса.<br />
+2. Метод <mark>main</mark> менять нельзя.</p>
+
+</div>

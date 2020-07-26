@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1217">
+<h3>Интерфейсы Fly, Run, Swim</h3>
+<p>Напиши public интерфейсы <mark class="red">Fly(<strong>летать</strong>)</mark>, <mark class="red">Run(<strong>бежать/ездить</strong>)</mark>, <mark class="red">Swim(<strong>плавать</strong>)</mark>.<br />
+Добавить в каждый интерфейс по <strong>одному методу</strong>.</p>
+
+</div>

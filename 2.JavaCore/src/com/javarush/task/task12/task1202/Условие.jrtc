@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1202">
+<h3>Ничего не выводится на экран</h3>
+<p>Переопределить метод <mark>getName</mark> в классе <span class="text-corporate"><strong>Whale</strong></span>(<strong>Кит</strong>), чтобы программа ничего не выводила на экран.</p>
+
+</div>

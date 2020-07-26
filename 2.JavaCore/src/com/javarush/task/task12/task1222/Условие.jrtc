@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1222">
+<h3>Метод setName в классе Cat</h3>
+<p>Переопредели метод <mark>setName</mark> в классе <strong><span class="text-corporate">Cat</span></strong> так, чтобы программа выдавала на экран надпись</p>
+<p><code>«Я - кот»</code></p>
+
+</div>

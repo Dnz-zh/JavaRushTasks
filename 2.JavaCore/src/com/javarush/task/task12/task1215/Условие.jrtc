@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1215">
+<h3>Классы Cat и Dog от Pet</h3>
+<p>Унаследуй классы <span class="text-corporate"><strong>Cat</strong></span> и <span class="text-corporate"><strong>Dog</strong></span> от <span class="text-corporate"><strong>Pet</strong></span>.<br />
+Реализуй недостающие методы.<br />
+Классы <span class="text-corporate"><strong>Cat</strong></span> и <span class="text-corporate"><strong>Dog</strong></span> не должны быть абстрактными.</p>
+
+</div>

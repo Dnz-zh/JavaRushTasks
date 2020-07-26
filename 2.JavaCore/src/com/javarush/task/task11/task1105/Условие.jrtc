@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1105">
+<h3>ИТ-компания</h3>
+<p>Исправить <strong>девять классов</strong>: <span class="text-corporate"><strong>Worker</strong></span> (<strong>сотрудник</strong>), <span class="text-corporate"><strong>Clerk</strong></span> (<strong>клерк</strong>), <span class="text-corporate"><strong>IT</strong></span> (<strong>ИТ-специалист</strong>), <span class="text-corporate"><strong>Programmer</strong></span> (<strong>программист</strong>), <span class="text-corporate"><strong>ProjectManager</strong></span> (<strong>менеджер проекта</strong>), <span class="text-corporate"><strong>CTO</strong></span> (<strong>технический директор</strong>), <span class="text-corporate"><strong>HR</strong></span> (<strong>рекрутер</strong>), <span class="text-corporate"><strong>OfficeManager</strong></span> (<strong>офис-менеджер</strong>), <span class="text-corporate"><strong>Cleaner</strong></span> (<strong>уборщик</strong>).<br />
+Унаследовать <strong>программиста</strong>, <strong>менеджера проекта</strong> и <strong>технического директора</strong> от <em><strong>ИТ-специалиста</strong></em>.<br />
+Унаследовать <strong>рекрутера</strong>, <strong>уборщика</strong> и <strong>офис-менеджера</strong> от <em><strong>клерка</strong></em>.<br />
+Унаследовать <strong>клерка</strong> и <strong>ИТ-специалиста</strong> от <em><strong>сотрудника</strong></em>.</p>
+
+</div>

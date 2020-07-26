@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1315">
+<h3>Dog, Cat и Mouse</h3>
+<p>1. Создай классы <span class="text-corporate"><strong>Dog</strong></span>, <span class="text-corporate"><strong>Cat</strong></span> и <span class="text-corporate"><strong>Mouse</strong></span>.<br />
+2. Реализуй интерфейсы в добавленных классах, учитывая что:<br />
+&#8212; <strong>Кот</strong>(<span class="text-corporate"><strong>Cat</strong></span>) может передвигаться, может кого-то съесть и может быть сам съеден.<br />
+&#8212; <strong>Мышь</strong>(<strong><span class="text-corporate">Mouse</span></strong>) может передвигаться и может быть съедена.<br />
+&#8212; <strong>Собака</strong>(<span class="text-corporate"><strong>Dog</strong></span>) может передвигаться и съесть кого-то.</p>
+
+</div>

@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1108">
+<h3>Ничего не поменяешь</h3>
+<p>Скрыть все внутренние переменные <strong>класса</strong> <span class="text-corporate"><strong>Cat</strong></span>, а также методы, позволяющие менять внутреннее состояние <span class="text-green">объектов</span> <strong>класса</strong> <span class="text-corporate"><strong>Cat</strong></span>.</p>
+
+</div>

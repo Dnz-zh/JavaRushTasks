@@ -1,0 +1,12 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1327">
+<h3>Репка</h3>
+<p><strong> Сказка Репка:</strong><br />
+1. Реализовать интерфейс <mark class="red">RepkaItem</mark> в классе <span class="text-corporate"><strong>Person</strong></span>.<br />
+2. В классе <span class="text-corporate"><strong>Person</strong></span> реализовать метод <mark>pull(Person person)</mark>, который выводит фразу типа &#8216;<em><span class="text-user"><strong>&lt;</strong><strong>name</strong></span><strong><span class="text-user">&gt;</span> за <span class="text-user">&lt;person&gt;</span></strong></em>&#8216;.</p>
+<p><strong>Пример:</strong><br />
+<code>Бабка за Дедку<br />
+Дедка за Репку</code></p>
+<p>3. Исправить логическую ошибку цикла в методе <mark>tell</mark> класса <span class="text-corporate"><strong>RepkaStory</strong></span>.<br />
+4. Выполнить метод <mark>main</mark> и наслаждаться сказкой!</p>
+
+</div>

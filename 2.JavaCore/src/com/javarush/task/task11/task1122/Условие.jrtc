@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1122">
+<h3>Нужно добавить в программу новую функциональность</h3>
+<p>Добавь общий базовый класс <span class="text-corporate"><strong>ChessFigure</strong></span> к <strong>классам-фигур</strong>: (<em>фигуры из шахмат</em>).</p>
+
+</div>

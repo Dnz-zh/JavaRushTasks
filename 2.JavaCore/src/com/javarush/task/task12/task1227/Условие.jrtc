@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1227">
+<h3>Fly, Run, Swim для классов Duck, Penguin, Toad</h3>
+<p>Есть интерфейсы <mark class="red">Fly(<strong>летать</strong>)</mark>, <mark class="red">Swim(<strong>плавать</strong>)</mark>, <mark class="red">Run(<strong>бегать</strong>)</mark>.<br />
+Добавь эти интерфейсы классам <span class="text-corporate"><strong>Duck</strong></span>(<strong>утка</strong>), <span class="text-corporate"><strong>Penguin</strong></span>(<strong>пингвин</strong>), <span class="text-corporate"><strong>Toad</strong></span>(<strong>жаба</strong>)</p>
+
+</div>

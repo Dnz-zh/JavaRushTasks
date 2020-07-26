@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1209">
+<h3>Три метода возвращают минимальное из двух переданных в него чисел</h3>
+<p>Написать public static методы: <mark>int min(<strong>int</strong>, <strong>int</strong>)</mark>, <mark>long min(<strong>long</strong>, <strong>long</strong>)</mark>, <mark>double min(<strong>double</strong>, <strong>double</strong>)</mark>.<br />
+Каждый метод должен возвращать минимальное из двух переданных в него чисел.</p>
+
+</div>

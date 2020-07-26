@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1301">
+<h3>Пиво</h3>
+<p>1. Подумай, какой из двух интерфейсов нужно реализовать в классе <span class="text-corporate"><strong>Beer</strong></span>.<br />
+2. Добавь к классу <span class="text-corporate"><strong>Beer</strong></span> этот интерфейс и реализуй все его методы.<br />
+3. Подумай, как связаны переменная <mark class="user">READY_TO_GO_HOME</mark> и метод <mark>isReadyToGoHome</mark>.<br />
+4. Верни значение переменной <mark class="user">READY_TO_GO_HOME</mark> в методе <mark>isReadyToGoHome</mark>.</p>
+
+</div>

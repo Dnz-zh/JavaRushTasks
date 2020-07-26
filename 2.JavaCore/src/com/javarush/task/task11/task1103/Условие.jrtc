@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1103">
+<h3>В гостях у бабушки</h3>
+<p>Написать <strong>шесть классов</strong>: <span class="text-corporate"><strong>Animal</strong></span> (<strong>животное</strong>), <span class="text-corporate"><strong>Cow</strong></span> (<strong>корова</strong>), <span class="text-corporate"><strong>Pig</strong></span> (<strong>свинья</strong>), <span class="text-corporate"><strong>Sheep</strong></span> (<strong>овца</strong>), <span class="text-corporate"><strong>Bull</strong></span> (<strong>бык</strong>) и <span class="text-corporate"><strong>Goat</strong></span> (<strong>козел</strong>).<br />
+Унаследовать корову, свинью, овцу, быка и козла от животного.</p>
+
+</div>

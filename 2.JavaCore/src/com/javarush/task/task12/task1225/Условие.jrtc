@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1225">
+<h3>Что это? «Кот», «Тигр», «Лев», «Бык», «Корова», «Животное»</h3>
+<p>Напиши метод, который определяет, какой объект передали в него.<br />
+Программа должна выводить на экран одну из надписей:<br />
+«<em><strong>Кот</strong></em>», «<em><strong>Тигр</strong></em>», «<em><strong>Лев</strong></em>», «<em><strong>Бык</strong></em>», «<em><strong>Корова</strong></em>», «<em><strong>Животное</strong></em>».</p>
+<p><strong>Замечание:</strong><br />
+<em>постарайся определять тип животного как можно более точно.</em></p>
+
+</div>

@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1104">
+<h3>Все мы работники</h3>
+<p><strong></strong> Написать <strong>четыре класса</strong>: <span class="text-corporate"><strong>Employee</strong></span> (<strong>сотрудник</strong>), <span class="text-corporate"><strong>Manager</strong></span> (<strong>управляющий</strong>), <span class="text-corporate"><strong>Chief</strong></span> (<strong>директор</strong>) и <span class="text-corporate"><strong>Secretary</strong></span> (<strong>секретарь</strong>).<br />
+Унаследовать управляющего, директора и секретаря от сотрудника.</p>
+
+</div>

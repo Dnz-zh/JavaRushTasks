@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1317">
+<h3>Погода</h3>
+<p>1. В классе <span class="text-corporate"><strong>Today</strong></span> реализовать интерфейс <mark class="red">Weather</mark>.<br />
+2. Подумай, как связан параметр type с методом <mark>getWeatherType()</mark>.<br />
+3. Интерфейсы <mark class="red">Weather</mark> и <mark class="red">WeatherType</mark> уже реализованы в отдельных файлах.</p>
+
+</div>

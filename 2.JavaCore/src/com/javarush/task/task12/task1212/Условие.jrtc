@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1212">
+<h3>Исправь код. Первая задача</h3>
+<p>Исправь код, чтобы программа компилировалась.</p>
+<p><strong>Подсказка:</strong><br />
+<em>метод </em><mark>getChild</mark><em> должен остаться абстрактным.</em></p>
+
+</div>

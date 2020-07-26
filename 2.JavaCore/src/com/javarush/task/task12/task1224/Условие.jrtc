@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1224">
+<h3>Что это? «Кот», «Тигр», «Лев», «Бык», «хз»</h3>
+<p>Напиши метод, который определяет, какой объект передали в него.<br />
+Программа должна выводить на экран одну из надписей:<br />
+«<em><strong>Кот</strong></em>», «<em><strong>Тигр</strong></em>», «<em><strong>Лев</strong></em>», «<em><strong>Бык</strong></em>», «<em><strong>хз</strong></em>».</p>
+
+</div>

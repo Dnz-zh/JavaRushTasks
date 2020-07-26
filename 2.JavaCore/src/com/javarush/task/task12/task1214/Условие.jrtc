@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1214">
+<h3>Класс Cow от Animal</h3>
+<p>Унаследуй класс <span class="text-corporate"><strong>Cow</strong></span> от <span class="text-corporate"><strong>Animal</strong></span>.<br />
+Реализуй все <strong>недостающие методы</strong> в классе <span class="text-corporate"><strong>Cow</strong></span>.</p>
+
+</div>

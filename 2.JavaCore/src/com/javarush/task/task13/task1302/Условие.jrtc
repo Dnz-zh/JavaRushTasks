@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1302">
+<h3>Пиво: возвращение</h3>
+<p>Добавь к классу <span class="text-corporate"><strong>AlcoholicBeer</strong></span> интерфейс <mark class="red">Drink</mark> и реализуй все его методы.</p>
+
+</div>

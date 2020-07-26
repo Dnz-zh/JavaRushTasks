@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1324">
+<h3>Один метод в классе</h3>
+<p>1. Унаследовать <mark class="red">Fox</mark> от интерфейса <mark class="red">Animal</mark>.<br />
+2. Поменяй код так, чтобы в классе <mark class="red">Fox</mark> был только один метод &#8212; <mark>getName</mark>.<br />
+3. Методы удалять нельзя!</p>
+
+</div>

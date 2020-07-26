@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1218">
+<h3>Fly, Move, Eat для классов Dog, Car, Duck, Airplane</h3>
+<p>Есть public интерфейсы <mark class="red">Fly(<strong>летать</strong>)</mark>, <mark class="red">Move(<strong>передвигаться</strong>)</mark>, <mark class="red">Eat(<strong>есть</strong>)</mark>.<br />
+Добавь эти интерфейсы классам <span class="text-corporate"><strong>Dog</strong></span>(<strong>собака</strong>), <span class="text-corporate"><strong>Car</strong></span>(<strong>автомобиль</strong>), <span class="text-corporate"><strong>Duck</strong></span>(<strong>утка</strong>), <span class="text-corporate"><strong>Airplane</strong></span>(<strong>самолет</strong>).</p>
+
+</div>

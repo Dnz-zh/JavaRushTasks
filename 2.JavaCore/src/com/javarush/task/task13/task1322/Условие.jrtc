@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1322">
+<h3>Интерфейс SimpleObject</h3>
+<p>1. Создай класс <span class="text-corporate"><strong>StringObject</strong></span>.<br />
+2. В классе <span class="text-corporate"><strong>StringObject</strong></span> реализуй интерфейс <mark class="red">SimpleObject</mark> с параметром типа <span class="text-red">String</span>.<br />
+3. Программа должна компилироваться.</p>
+
+</div>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3301/Solution.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3312/Solution.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3312/Zoo.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3313/Solution.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3313/Event.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3303/Solution.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3304/Solution.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3305/Solution.java" />
+      <file url="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3305/ParkingLot.java" />
+    </excludeFromCompile>
+  </component>
+</project>

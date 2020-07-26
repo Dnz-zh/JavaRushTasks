@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1230">
+<h3>Метод, который выводит на экран число 10</h3>
+<p>Добавь еще один метод, чтобы программа выводила на экран число <span class="text-user"><strong>10</strong></span>.</p>
+<p><strong>Подсказка:</strong><br />
+<em>используй перегрузку методов.</em></p>
+
+</div>

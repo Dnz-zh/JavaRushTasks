@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1220">
+<h3>Класс Human и интерфейсы Run, Swim</h3>
+<p>Напиши <strong><span class="text-corporate">public</span></strong> класс <span class="text-corporate"><strong>Human</strong></span>(<strong>человек</strong>) и <mark class="red">public</mark> интерфейсы <mark class="red">Run(<strong>бежать/ездить</strong>)</mark>, <mark class="red">Swim(<strong>плавать</strong>)</mark>.<br />
+Добавь в каждый интерфейс по о<strong>дному методу</strong>.<br />
+Добавь эти интерфейсы классу <span class="text-corporate"><strong>Human</strong></span>, но не реализуй методы.<br />
+Объяви класс <span class="text-corporate"><strong>Human</strong></span> абстрактным.</p>
+
+</div>

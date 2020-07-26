@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1207">
+<h3>print(int) и print(Integer)</h3>
+<p>Написать два метода: <mark>print(<strong>int</strong>)</mark> и <mark>print(<strong>Integer</strong>)</mark>.<br />
+Написать такой код в методе <mark>main</mark>, чтобы вызвались они оба.</p>
+
+</div>

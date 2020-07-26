@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1309">
+<h3>Наследование интерфейса</h3>
+<p>1. Создай интерфейс <mark class="red">Movable</mark> с методом <mark>speed</mark>.<br />
+2. Метод <mark>speed</mark> должен возвращать значение типа <span class="text-corporate">Double</span> и не должен ничего принимать в качестве аргументов.<br />
+3. Создай и унаследуй интерфейс <mark class="red">Flyable</mark> от интерфейса <mark class="red">Movable</mark>.<br />
+4. Добавь в интерфейс <mark class="red">Flyable</mark> метод <mark>speed</mark>.<br />
+5. Метод <mark>speed</mark> должен возвращать значение типа <span class="text-corporate">Double</span> и принимать один параметр типа <span class="text-corporate">Flyable</span>.</p>
+
+</div>

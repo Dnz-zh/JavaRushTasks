@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1201">
+<h3>Я не корова, Я - кит</h3>
+<p>Переопределить метод <mark>getName</mark> в классе <span class="text-corporate"><strong>Whale</strong></span>(<strong>Кит</strong>), чтобы программа выдавала:</p>
+<p><code>Я не корова, Я - кит.</code></p>
+
+</div>

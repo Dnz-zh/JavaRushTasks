@@ -1,0 +1,18 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1326">
+<h3>Сортировка четных чисел из файла</h3>
+<p>1. <strong>Ввести</strong> имя файла с консоли.<br />
+2. <strong>Прочитать</strong> из него набор чисел.<br />
+3. Вывести на консоль только четные, отсортированные по возрастанию.</p>
+<p><strong>Пример ввода:</strong><br />
+<code>5<br />
+8<br />
+11<br />
+3<br />
+2<br />
+10</code></p>
+<p><strong>Пример вывода:</strong><br />
+<code>2<br />
+8<br />
+10</code></p>
+
+</div>

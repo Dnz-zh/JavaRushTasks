@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1101">
+<h3>Лошадь и пегас</h3>
+<p>Отредактировать <strong>два класса</strong>: <strong><span class="text-corporate">Horse</span></strong> (<strong>лошадь</strong>) и <span class="text-corporate"><strong>Pegas</strong></span> (<strong>пегас</strong>).<br />
+Унаследовать пегаса от лошади.</p>
+
+</div>

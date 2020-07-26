@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1308">
+<h3>Жив или нет</h3>
+<p>1. Создай интерфейс <mark class="red">Person</mark>.<br />
+2. Добавь в него метод <mark>isAlive()</mark>, который проверяет, жив человек или нет.<br />
+3. Подумай, какой тип должен возвращать этот метод.<br />
+4. Создай интерфейс <mark class="red">Presentable</mark>.<br />
+5. Унаследуй интерфейс <mark class="red">Presentable</mark> от интерфейса <mark class="red">Person</mark>.</p>
+
+</div>

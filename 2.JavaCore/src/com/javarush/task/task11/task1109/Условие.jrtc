@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1109">
+<h3>Инкапсуляция для классов Cat и Dog</h3>
+<p>Скрыть все внутренние переменные класса <span class="text-corporate"><strong>Cat</strong></span> и <span class="text-corporate"><strong>Dog</strong></span>.<br />
+Также скрыть все методы, кроме тех, с помощью которых эти <strong>классы</strong> взаимодействуют <strong>друг с другом</strong>.</p>
+
+</div>

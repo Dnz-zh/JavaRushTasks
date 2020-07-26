@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1226">
+<h3>Fly, Run, Climb для классов Cat, Dog, Tiger, Duck</h3>
+<p>1. Внутри класса <span class="text-corporate"><strong>Solution</strong></span> создай интерфейс <mark class="red">public interface Fly(<strong>летать</strong>)</mark> с методом <mark>void fly()</mark>.<br />
+2. Внутри класса <span class="text-corporate"><strong>Solution</strong></span> создай интерфейс <mark class="red">public interface Climb(<strong>лазить по деревьям</strong>)</mark> с методом <mark>void climb().</mark><br />
+3. Внутри класса <span class="text-corporate"><strong>Solution</strong></span> создай интерфейс <mark class="red">public interface Run(<strong>бегать</strong>)</mark> с методом <mark>void run()</mark>.<br />
+4. Подумай логически, какие именно интерфейсы нужно добавить для каждого класса.<br />
+5. Добавь интерфейсы классам <span class="text-corporate"><strong>Cat</strong></span>(<strong>кот</strong>), <span class="text-corporate"><strong>Dog</strong></span>(<strong>собака</strong>), <span class="text-corporate"><strong>Tiger</strong></span>(<strong>тигр</strong>), <span class="text-corporate"><strong>Duck</strong></span>(<strong>Утка</strong>).</p>
+
+</div>

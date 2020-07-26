@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1306">
+<h3>Баг в initializeIdAndName</h3>
+<p>1. Подумать, что в программе неправильно.<br />
+2. Вынести реализацию метода <mark>initializeIdAndName</mark> в класс <span class="text-corporate"><strong>User</strong></span>.<br />
+3. <mark>initializeIdAndName</mark> в классе <span class="text-corporate"><strong>User</strong></span> должен возвращать тип <span class="text-corporate">User</span>.<br />
+4. Поправить программу, чтобы компилировалась и работала.</p>
+
+</div>

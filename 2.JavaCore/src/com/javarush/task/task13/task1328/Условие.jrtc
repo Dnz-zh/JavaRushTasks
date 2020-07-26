@@ -1,0 +1,15 @@
+<div class="wdghtml" taskKey="com.javarush.task.task13.task1328">
+<h3>Битва роботов</h3>
+<p>1. Разобраться в том, что тут написано.<br />
+2. <em><strong>http://info.javarush.ru/uploads/images/00/00/07/2014/08/12/50f3e37f94.png</strong></em><br />
+3. Смириться со своей участью и продолжить <strong>разбираться</strong> в коде.<br />
+4. &#8230;<br />
+5. <strong>Порадоваться</strong>, что мы все поняли.<br />
+6. Изменить код согласно новой архитектуре и добавить новую логику:<br />
+6.1. Сделать класс <span class="text-corporate"><strong>AbstractRobot</strong></span> абстрактным, вынести логику атаки и защиты из <span class="text-corporate"><strong>Robot</strong></span> в <span class="text-corporate"><strong>AbstractRobot</strong></span>.<br />
+6.2. Отредактировать класс <span class="text-corporate"><strong>Robot</strong></span> учитывая <span class="text-corporate"><strong>AbstractRobot</strong></span>.<br />
+6.3. Расширить класс <span class="text-corporate"><strong>BodyPart</strong></span> новой частью тела <span class="text-corporate"><strong>BodyPart</strong></span>.<mark class="user">CHEST</mark>(&#171;<strong>грудь</strong>&#171;).<br />
+6.4. Добавить новую часть тела в реализацию интерфейсов <mark class="red">Attackable</mark> и <mark class="red">Defensable</mark> (в классе <span class="text-corporate"><strong>AbstractRobot</strong></span>).<br />
+7. <em><strong>http://info.javarush.ru/uploads/images/00/00/07/2014/08/12/3b9c65580b.png</strong></em></p>
+
+</div>

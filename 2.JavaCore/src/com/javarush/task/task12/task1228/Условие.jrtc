@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1228">
+<h3>Интерфейсы к классу Human</h3>
+<p>Добавь как можно больше интерфейсов к классу <span class="text-corporate"><strong>Human</strong></span>, но чтобы он не стал абстрактным классом.<br />
+Добавлять методы в класс <span class="text-corporate"><strong>Human</strong></span> запрещается.</p>
+
+</div>

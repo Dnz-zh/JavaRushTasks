@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task11.task1107">
+<h3>Доступ есть</h3>
+<p>Скрыть все внутренние переменные <strong>класса</strong> <span class="text-corporate"><strong>Cat</strong></span>, но только те, к которым остается доступ с помощью методов.</p>
+
+</div>

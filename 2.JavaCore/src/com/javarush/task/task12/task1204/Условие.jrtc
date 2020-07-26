@@ -1,0 +1,5 @@
+<div class="wdghtml" taskKey="com.javarush.task.task12.task1204">
+<h3>Или «Кошка», или «Собака», или «Птица», или «Лампа»</h3>
+<p>Написать метод, который определяет, объект какого класса ему передали, и выводит на экран одну из надписей: <strong>Кошка</strong>, <strong>Собака</strong>, <strong>Птица</strong>, <strong>Лампа</strong>.</p>
+
+</div>
